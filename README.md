@@ -14,7 +14,7 @@ In this maze game:
 -   **Player path is shown using +**
 -   **Start point is A+**
 -   **Goal point is X**
--   \*\*Walls are @*\*
+-   **Walls are @**
 -   **Free spaces are blank (" ")**
 
 Your agent explores all valid moves using **BFS** until it finds the
