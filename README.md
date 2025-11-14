@@ -95,21 +95,6 @@ You will see the maze, the found path, and the success message.
 
 ------------------------------------------------------------------------
 
-## 🧑‍💻 Authors
-
--   **Raghad Khaled Almutairi -- 2110409**\
--   **Ryouf Bander Alghamdi -- 2110489**\
--   **Amatulrahman Alsubhi**
-
-------------------------------------------------------------------------
-
-## 📘 Course
-
-**CCAI‑221 -- Fundamentals of AI (2023)**\
-**Path‑Finding AI Project (BFS)**
-
-------------------------------------------------------------------------
-
 ## ⭐ Notes
 
 This project demonstrates how simple search algorithms can solve
